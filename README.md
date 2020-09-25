@@ -1,10 +1,9 @@
 # EcoBike
 
-Content
-
-# Description
-# Project Structure
-# Author
+# Content
+ * Description
+ * Project Structure
+ * Author
 
 # Description
 In this project I attempted to implement a console program. There are 7 basic functions: Show the entire EcoBike catalog
